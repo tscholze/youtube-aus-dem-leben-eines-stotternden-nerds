@@ -68,6 +68,12 @@ li
 	margin-right: 10px;
 }
 
+a 
+{
+	color: #034509;
+}
+
+
 li:last-child
 {
 	margin-right: 0px;
